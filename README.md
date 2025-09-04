@@ -2,6 +2,7 @@
 ## I'm a Developer and a Student
 - 😸 Hi, I’m @mikk7
 - 🎓 I'm currently doing a programming degree 💻
+- 🎮 I love gameDev in Godot and Unity 🕹️
 <br />
 <br />
 
