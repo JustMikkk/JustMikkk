@@ -1,7 +1,7 @@
-
+# 🐈‍⬛
 ## I'm a Developer and a Student
-- 👋 Hi, I’m @mikk7
-- 🎓 I'm currently a doing programming degree 🖥️
+- 😸 Hi, I’m @mikk7
+- 🎓 I'm currently doing a programming degree 💻
 <br />
 <br />
 
