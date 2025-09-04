@@ -1,6 +1,6 @@
 
 ## I'm a Developer and a Student
-- 👋 Hi, I’m @Londek
+- 👋 Hi, I’m @mikk7
 - 🎓 I'm currently doing programming degree 🖥️
 - 👀 I’m interested in programming and cyber security
 - 💬 I've always been interested in how computers work, so I started programming in 4th grade
@@ -23,5 +23,5 @@
 <br />
 <br />
 
-<img align="left" alt="Londek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=londek&show_icons=true&theme=transparent" />
+<img align="left" alt="Londek's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=justmikkk&show_icons=true&theme=transparent" />
 
